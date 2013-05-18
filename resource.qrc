@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/base">
+        <file alias="close.png">icons/closeicon.png</file>
+        <file alias="max.png">icons/maxicon.png</file>
+        <file alias="min.png">icons/minicon.png</file>
+        <file alias="recent">icons/recent.png</file>
+        <file alias="startmenu">icons/startmenu.png</file>
+        <file alias="chrome">icons/chrome.png</file>
+        <file alias="firefox">icons/mozilla-firefox.png</file>
+        <file alias="icon">cleaner.ico</file>
+        <file alias="foot">icons/footprint.png</file>
+        <file alias="btn_bg">icons/btn_bg.png</file>
+        <file alias="btn_pressed">icons/cleaner_btn_pressed_bg.png</file>
+        <file alias="folder">icons/folder.png</file>
+    </qresource>
+</RCC>

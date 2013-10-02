@@ -2,7 +2,7 @@ winstorm
 ========
 A history and caches cleaning tool for Windows users.<br />
 history of your web browsing(Chrome,Firefox) and caches、Jumplist、recent files.（windows7 32bit tested）.<br />
-Here is a preview <br />
+Here is a preview http://www.fan16.net.img.800cdn.com/uploads/2013/03/20130323133239.jpg <br />
 [preview]: http://www.fan16.net.img.800cdn.com/uploads/2013/03/20130323133239.jpg  "preview"
 It's a Qt project.<br />
 dlls required below:<br />
